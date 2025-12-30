@@ -100,8 +100,8 @@
                     <version>2.4</version>
                     <configuration>
                         <warSourceDirectory>src/webapp</warSourceDirectory>
-                        <warName>spring_mvc</warName>
-                        <failOnMissingWebXml>true</failOnMissingWebXml>
+                        <warName>springproject</warName>
+                        <failOnMissingWebXml>false</failOnMissingWebXml>
                     </configuration>
                 </plugin>
             </plugins>
